@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexmerck 
 - 👀 I’m interested in data analyzing 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on cars data analysis
+- 💞️ I’m looking to collaborate on automotive market data analysis
 - 📫 durango77@gmail.com
 
 <!---
